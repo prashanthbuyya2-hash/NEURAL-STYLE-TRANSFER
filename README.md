@@ -1,0 +1,1 @@
+Neural Style Transfer (NST) is a computer vision technique that combines two images — a content image and a style image — to create a new image that retains the content of the first image but adopts the artistic style of the second.
